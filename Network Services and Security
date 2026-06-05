@@ -1,0 +1,16 @@
+4.0 Network Services and Security
+4.1 Configure network devices with local usernames and as an AAA client (TACACS+ and 
+RADIUS) for management 
+4.2 Manage device configuration and software files using secure file transfer operations 
+with SFTP/SCP 
+4.3 Configure NAT/PAT on IOS XE routers 
+4.4 Diagnose issues with DNS records (A, AAAA, CNAME, MX, NS, and PTR) to support host, 
+web application, and mail server access by name 
+4.5 Describe IPsec remote access and site-to-site VPNs (protocols and transport modes) 
+4.6 Configure IPv4 access control lists (standard, extended, numbered, and named ACLs)
+4.7 Configure Layer 2 security features
+4.7.a DHCP snooping 
+4.7.b Dynamic ARP inspection 
+4.7.c Storm control 
+4.7.d RA guard 
+4.7.e Port security
